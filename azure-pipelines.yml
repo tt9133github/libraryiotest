@@ -1,4 +1,6 @@
 # Node.js
+- task: WhiteSource Bolt@19
+  inputs:
 - task: npmAuthenticate@0
   inputs:
 - task: WhiteSource Bolt@19
