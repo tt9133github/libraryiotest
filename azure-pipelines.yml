@@ -1,14 +1,6 @@
 # Node.js
 - task: WhiteSource Bolt@19
   inputs:
-- task: npmAuthenticate@0
-  inputs:
-- task: WhiteSource Bolt@19
-  inputs:
-    workingFile: 
-# Build a general Node.js project with npm.
-# Add steps that analyze code, save build artifacts, deploy, and more:
-# https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
 
 trigger:
 - master
